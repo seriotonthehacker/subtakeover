@@ -1,2 +1,2 @@
 # lumina.nextdoor.com
-subdomain takeover
+subdomain takeover by Hepin Radadiya
